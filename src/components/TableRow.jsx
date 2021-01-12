@@ -9,7 +9,6 @@ const style = {
     border: "2px solid black",
     borderRadius: "10px",
     cursor: "pointer",
-    // -moz-osx-font-smoothing: "grayscale",
     backfaceVisibility: "hidden",
     transform: "translateZ(0)",
     transition: "transform 0.25s ease-out",

@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-family: ‘Open Sans’, ‘Montserrat’, ‘Playfair Display’, ‘Roboto’,
+    ‘Proxima Nova’;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: ‘Abril Fatface’, ‘Playfair Display’, ‘Raleway’, ‘Proxima Nova’,
+    ‘Duru Sans’, ‘Futura PT’, ‘Myriad Pro’, ‘JAF Facit’;
+}

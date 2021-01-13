@@ -5,14 +5,14 @@ const style = {
     display: "flex",
     flexDirection: "column",
     justifyContent: "center",
-    backgroundColor: "#008891",
-    border: "2px solid black",
+    backgroundColor: "#c9800a",
+    border: "2px solid gray",
     borderRadius: "10px",
     cursor: "pointer",
     backfaceVisibility: "hidden",
     transform: "translateZ(0)",
     transition: "transform 0.25s ease-out",
-    boxShadow: "2px 2px 4px #000000",
+    boxShadow: "2px 2px 4px #c97c28",
   },
   imgStyle: {
     display: "block",
@@ -25,7 +25,7 @@ const style = {
     textDecoration: "underline",
   },
   buttonStyle: {
-    boxShadow: "2px 2px 4px #000000",
+    boxShadow: "2px 2px 4px #c97c28",
   },
 };
 

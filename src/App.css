@@ -1,5 +1,27 @@
 .App {
+  margin-top: 0;
   text-align: center;
+  background: linear-gradient(#c9800a);
+  background-size: 400% 400%;
+
+  animation: AnimationName 10s ease infinite;
+  min-height: 100vh;
+}
+
+* {
+  margin-top: 0;
+}
+
+@keyframes AnimationName {
+  0% {
+    background-position: 24% 0%;
+  }
+  50% {
+    background-position: 77% 100%;
+  }
+  100% {
+    background-position: 24% 0%;
+  }
 }
 
 .App-logo {
@@ -14,7 +36,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #c97c28;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -25,7 +47,7 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: #f2b51b;
 }
 
 @keyframes App-logo-spin {

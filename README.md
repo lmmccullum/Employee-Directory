@@ -26,10 +26,10 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# WALKTHROUGH VIDEO
+# SCREENSHOT
 • The included image demonstrates the application functionality:
 
-[![Demonstrative Video]( PASTE URL HERE     )]
+[![Demonstrative Video](https://i.imgur.com/cISTyU4.png)]
 
 # QUESTIONS
 • If you have any questions, concerns or suggestions please feel free to contact me with the link below.
